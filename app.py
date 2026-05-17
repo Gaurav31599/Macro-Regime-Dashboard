@@ -9,7 +9,7 @@ st.title("🌍 Macro Regime Dashboard")
 
 client = OpenAI(
     base_url="https://integrate.api.nvidia.com/v1",
-    api_key="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"
+    api_key="NVIDIA_API_KEY"
 )
 
 # Fetch macro data
